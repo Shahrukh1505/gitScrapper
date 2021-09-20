@@ -1,0 +1,784 @@
+[
+  {
+    "topicUrl": "https://www.github.com/topics/webpack",
+    "repos": [
+      {
+        "repoUrl": "https://www.github.com/PanJiaChen/vue-element-admin",
+        "issues": [
+          {
+            "issueName": "Syntax Error: Assigning to rvalue",
+            "issueUrl": "https://www.github.com/PanJiaChen/vue-element-admin/issues/3820"
+          },
+          {
+            "issueName": "如何过滤掉文本中的元素。样式",
+            "issueUrl": "https://www.github.com/PanJiaChen/vue-element-admin/issues/3819"
+          },
+          {
+            "issueName": "本地运行很慢",
+            "issueUrl": "https://www.github.com/PanJiaChen/vue-element-admin/issues/3818"
+          },
+          {
+            "issueName": "执行启动npm run dev失败，提示Error: listen UNKNOWN: unknown error",
+            "issueUrl": "https://www.github.com/PanJiaChen/vue-element-admin/issues/3817"
+          },
+          {
+            "issueName": "Trying to get in touch regarding a security issue",
+            "issueUrl": "https://www.github.com/PanJiaChen/vue-element-admin/issues/3816"
+          },
+          {
+            "issueName": "富文本不能 动态绑定 —— 在弹出框中使用无法监听到数据的变化",
+            "issueUrl": "https://www.github.com/PanJiaChen/vue-element-admin/issues/3815"
+          },
+          {
+            "issueName": "求助！！Help me !! 将table表格某一行向el-tree 树形节点上拖拽，不能触发drop 事件的问题",
+            "issueUrl": "https://www.github.com/PanJiaChen/vue-element-admin/issues/3814"
+          },
+          {
+            "issueName": "请问这个项目不更新了吗",
+            "issueUrl": "https://www.github.com/PanJiaChen/vue-element-admin/issues/3812"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/storybookjs/storybook",
+        "issues": [
+          {
+            "issueName": "Storybook for Angular fails with default/initial library config (Zero-config setup)",
+            "issueUrl": "https://www.github.com/storybookjs/storybook/issues/16110"
+          },
+          {
+            "issueName": "Angular: Input with type number | undefined and @HostBinding gets NaN set as default value",
+            "issueUrl": "https://www.github.com/storybookjs/storybook/issues/16109"
+          },
+          {
+            "issueName": "Angular regression Error trying to diff '[...]' Only arrays and iterables are allowed when using array properties",
+            "issueUrl": "https://www.github.com/storybookjs/storybook/issues/16108"
+          },
+          {
+            "issueName": "CLI: Upgrade CLI templates to CSF3",
+            "issueUrl": "https://www.github.com/storybookjs/storybook/issues/16100"
+          },
+          {
+            "issueName": "MUI5 and storybook mixes the theme if rendering Docs - which cause an exception",
+            "issueUrl": "https://www.github.com/storybookjs/storybook/issues/16099"
+          },
+          {
+            "issueName": "Fails to compile and run storybook: ModuleNotFound: OverlayScrollbars.js",
+            "issueUrl": "https://www.github.com/storybookjs/storybook/issues/16096"
+          },
+          {
+            "issueName": "Missing preset code in the preset docs",
+            "issueUrl": "https://www.github.com/storybookjs/storybook/issues/16094"
+          },
+          {
+            "issueName": "Security warning on react-dev-utils that depends on immer",
+            "issueUrl": "https://www.github.com/storybookjs/storybook/issues/16093"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/webpack/webpack",
+        "issues": [
+          {
+            "issueName": "ModuleParseError does not report faulty module's file path (request)",
+            "issueUrl": "https://www.github.com/webpack/webpack/issues/14287"
+          },
+          {
+            "issueName": "support \\\\ windows UNC paths",
+            "issueUrl": "https://www.github.com/webpack/webpack/issues/14256"
+          },
+          {
+            "issueName": "__dirname and __filename should not be provided for target: web",
+            "issueUrl": "https://www.github.com/webpack/webpack/issues/14229"
+          },
+          {
+            "issueName": "feature request: createRequire detect",
+            "issueUrl": "https://www.github.com/webpack/webpack/issues/14228"
+          },
+          {
+            "issueName": "Use supports X Browserslist query instead of exact versions list",
+            "issueUrl": "https://www.github.com/webpack/webpack/issues/14226"
+          },
+          {
+            "issueName": "LazyCompilation should support HTTPS",
+            "issueUrl": "https://www.github.com/webpack/webpack/issues/14205"
+          },
+          {
+            "issueName": "browserslist target throws when Babel can understand it ",
+            "issueUrl": "https://www.github.com/webpack/webpack/issues/14203"
+          },
+          {
+            "issueName": "resolve.fallback and resolve.alias do not work with node: prefix",
+            "issueUrl": "https://www.github.com/webpack/webpack/issues/14166"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/bailicangdu/vue2-elm",
+        "issues": [
+          {
+            "issueName": "太强了呀作者",
+            "issueUrl": "https://www.github.com/bailicangdu/vue2-elm/issues/606"
+          },
+          {
+            "issueName": "部分接口504",
+            "issueUrl": "https://www.github.com/bailicangdu/vue2-elm/issues/605"
+          },
+          {
+            "issueName": "cookie里面保存着验证码进行请求,还一直显示登陆失败是什么原因",
+            "issueUrl": "https://www.github.com/bailicangdu/vue2-elm/issues/602"
+          },
+          {
+            "issueName": "大大佬，加入购物车又失败了",
+            "issueUrl": "https://www.github.com/bailicangdu/vue2-elm/issues/601"
+          },
+          {
+            "issueName": "npm install 会报错，是还需要什么东西吗",
+            "issueUrl": "https://www.github.com/bailicangdu/vue2-elm/issues/597"
+          },
+          {
+            "issueName": "大佬，请问一下这个前端项目的代理是怎么搞得，运行npm run local和后台了，但是发现有些接口走的不是后台的服务，例如：/shopping/restaurants?latitude=22.54286&longitude=114.059563&offset=0&limit=20这个接口",
+            "issueUrl": "https://www.github.com/bailicangdu/vue2-elm/issues/595"
+          },
+          {
+            "issueName": "怎么修改代理",
+            "issueUrl": "https://www.github.com/bailicangdu/vue2-elm/issues/591"
+          },
+          {
+            "issueName": "为什么build和config中的文件和vue-cli默认创建的不一样？",
+            "issueUrl": "https://www.github.com/bailicangdu/vue2-elm/issues/586"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/akveo/ngx-admin",
+        "issues": [
+          {
+            "issueName": "Error with tinymce",
+            "issueUrl": "https://www.github.com/akveo/ngx-admin/issues/5885"
+          },
+          {
+            "issueName": "ngx admin cropping page on side menu expanded",
+            "issueUrl": "https://www.github.com/akveo/ngx-admin/issues/5881"
+          },
+          {
+            "issueName": "Sidebar background in mobile mode [ngx-admin][Docs]",
+            "issueUrl": "https://www.github.com/akveo/ngx-admin/issues/5880"
+          },
+          {
+            "issueName": "NodeJS Version",
+            "issueUrl": "https://www.github.com/akveo/ngx-admin/issues/5879"
+          },
+          {
+            "issueName": "  console.log(<HTMLElement>document.querySelector('.context-menu'));   this gives \"null\". ",
+            "issueUrl": "https://www.github.com/akveo/ngx-admin/issues/5878"
+          },
+          {
+            "issueName": "ng2-smart-table component bug when i press esc key. ",
+            "issueUrl": "https://www.github.com/akveo/ngx-admin/issues/5877"
+          },
+          {
+            "issueName": "gyp ERR! build error",
+            "issueUrl": "https://www.github.com/akveo/ngx-admin/issues/5876"
+          },
+          {
+            "issueName": "Bugged scrollbar when removing windowMode of nb-layout",
+            "issueUrl": "https://www.github.com/akveo/ngx-admin/issues/5875"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/markerikson/react-redux-links",
+        "issues": [
+          {
+            "issueName": "Scaffolding / App generation",
+            "issueUrl": "https://www.github.com/markerikson/react-redux-links/issues/140"
+          },
+          {
+            "issueName": "Potential Links Dump: 2020-08-15",
+            "issueUrl": "https://www.github.com/markerikson/react-redux-links/issues/138"
+          },
+          {
+            "issueName": "Dead link in react-implementations.md",
+            "issueUrl": "https://www.github.com/markerikson/react-redux-links/issues/136"
+          },
+          {
+            "issueName": "redux-side-effects.md link down \"Pure Functionality and Side Effects with Redux\"",
+            "issueUrl": "https://www.github.com/markerikson/react-redux-links/issues/135"
+          },
+          {
+            "issueName": "Potential Links Dump: 2018-11-18",
+            "issueUrl": "https://www.github.com/markerikson/react-redux-links/issues/106"
+          },
+          {
+            "issueName": "Add date and react version to links",
+            "issueUrl": "https://www.github.com/markerikson/react-redux-links/issues/101"
+          },
+          {
+            "issueName": "Request for Additional Links List Maintainers",
+            "issueUrl": "https://www.github.com/markerikson/react-redux-links/issues/99"
+          },
+          {
+            "issueName": "Potential Links Dump - 2018-06-29",
+            "issueUrl": "https://www.github.com/markerikson/react-redux-links/issues/98"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/kriasoft/react-starter-kit",
+        "issues": [
+          {
+            "issueName": "Pass config as React context",
+            "issueUrl": "https://www.github.com/kriasoft/react-starter-kit/issues/1952"
+          },
+          {
+            "issueName": "Unable to add Google Analytics Tracking",
+            "issueUrl": "https://www.github.com/kriasoft/react-starter-kit/issues/1925"
+          },
+          {
+            "issueName": "PWA Feature required ",
+            "issueUrl": "https://www.github.com/kriasoft/react-starter-kit/issues/1649"
+          },
+          {
+            "issueName": "How to keep my project updated?",
+            "issueUrl": "https://www.github.com/kriasoft/react-starter-kit/issues/991"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/jhipster/generator-jhipster",
+        "issues": [
+          {
+            "issueName": "MongoDB create entities fails",
+            "issueUrl": "https://www.github.com/jhipster/generator-jhipster/issues/16358"
+          },
+          {
+            "issueName": "Login page should display the authentication error instead of the generic message",
+            "issueUrl": "https://www.github.com/jhipster/generator-jhipster/issues/16338"
+          },
+          {
+            "issueName": "husky implementation is not compatible with npm@6",
+            "issueUrl": "https://www.github.com/jhipster/generator-jhipster/issues/16336"
+          },
+          {
+            "issueName": "On application startup, SpringApplicationShutdownHook fails with ArrayIndexOutOfBoundsException when connection to MongoDB times out ",
+            "issueUrl": "https://www.github.com/jhipster/generator-jhipster/issues/16334"
+          },
+          {
+            "issueName": "The development ribbon and API links are missing when run locally (with no blueprints)",
+            "issueUrl": "https://www.github.com/jhipster/generator-jhipster/issues/16333"
+          },
+          {
+            "issueName": "7.2.0 produces uncompilable code",
+            "issueUrl": "https://www.github.com/jhipster/generator-jhipster/issues/16331"
+          },
+          {
+            "issueName": "Cannot generate entity relationships with CLI",
+            "issueUrl": "https://www.github.com/jhipster/generator-jhipster/issues/16330"
+          },
+          {
+            "issueName": "[WARNING] An illegal reflective access operation has occurred",
+            "issueUrl": "https://www.github.com/jhipster/generator-jhipster/issues/16319"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topicUrl": "https://www.github.com/topics/haskell",
+    "repos": [
+      {
+        "repoUrl": "https://www.github.com/koalaman/shellcheck",
+        "issues": [
+          {
+            "issueName": "declare -a foo=( $(cmd) ) - no warning about exit status",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2329"
+          },
+          {
+            "issueName": "find / with rm -rf does produce warning ",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2328"
+          },
+          {
+            "issueName": "Detect pipe output from cd or umask (creates a subprocess)",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2324"
+          },
+          {
+            "issueName": "SC2039: does not trigger for dash (does for POSIX sh)",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2322"
+          },
+          {
+            "issueName": "Enhancement Request: warning on two functions defined with the same function name",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2316"
+          },
+          {
+            "issueName": "detect failure due to processing asterisks due to not accounting for empty globs",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2306"
+          },
+          {
+            "issueName": "detect possible option injection",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2305"
+          },
+          {
+            "issueName": "BUG: 'cp -r' is not recognised as implementation defined",
+            "issueUrl": "https://www.github.com/koalaman/shellcheck/issues/2302"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/jgm/pandoc",
+        "issues": [
+          {
+            "issueName": "org-reader: regression with ATTR_HTML?",
+            "issueUrl": "https://www.github.com/jgm/pandoc/issues/7583"
+          },
+          {
+            "issueName": "Pauses between columns not working for revealjs",
+            "issueUrl": "https://www.github.com/jgm/pandoc/issues/7582"
+          },
+          {
+            "issueName": "Proposal: Use pretty-show to render native AST",
+            "issueUrl": "https://www.github.com/jgm/pandoc/issues/7580"
+          },
+          {
+            "issueName": "Proposal: remove Space element in AST",
+            "issueUrl": "https://www.github.com/jgm/pandoc/issues/7579"
+          },
+          {
+            "issueName": "pandoc produces corrupted docx files when a reference doc with textbox headers/footers are used",
+            "issueUrl": "https://www.github.com/jgm/pandoc/issues/7575"
+          },
+          {
+            "issueName": "In Epub conversion, implement either a way to block display of chapter headers or use different headers for Chapter and TOC ",
+            "issueUrl": "https://www.github.com/jgm/pandoc/issues/7565"
+          },
+          {
+            "issueName": "References not converted correctly from mediawiki to markdown",
+            "issueUrl": "https://www.github.com/jgm/pandoc/issues/7564"
+          },
+          {
+            "issueName": "Highlights in inline code with syntax highlighting",
+            "issueUrl": "https://www.github.com/jgm/pandoc/issues/7560"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/PostgREST/postgrest",
+        "issues": [
+          {
+            "issueName": "OpenAPI schema: views do not indicate required properties of underlying tables",
+            "issueUrl": "https://www.github.com/PostgREST/postgrest/issues/1947"
+          },
+          {
+            "issueName": "Normalize double quoting across all operators",
+            "issueUrl": "https://www.github.com/PostgREST/postgrest/issues/1943"
+          },
+          {
+            "issueName": "OpenBSD release builds",
+            "issueUrl": "https://www.github.com/PostgREST/postgrest/issues/1942"
+          },
+          {
+            "issueName": "[Feature Request] HTTP headers filtering",
+            "issueUrl": "https://www.github.com/PostgREST/postgrest/issues/1941"
+          },
+          {
+            "issueName": "PATCH column with name longer than NAMEDATALEN will cause data loss in column",
+            "issueUrl": "https://www.github.com/PostgREST/postgrest/issues/1937"
+          },
+          {
+            "issueName": "Add a proper / minimal health check endpoint",
+            "issueUrl": "https://www.github.com/PostgREST/postgrest/issues/1933"
+          },
+          {
+            "issueName": "Connection worker delay is not being respected",
+            "issueUrl": "https://www.github.com/PostgREST/postgrest/issues/1932"
+          },
+          {
+            "issueName": "Differentiate between PostgREST and PostgreSQL errors in the error body",
+            "issueUrl": "https://www.github.com/PostgREST/postgrest/issues/1917"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/compiler-explorer/compiler-explorer",
+        "issues": [
+          {
+            "issueName": "Objective-C support for GCC",
+            "issueUrl": "https://www.github.com/compiler-explorer/compiler-explorer/issues/2942"
+          },
+          {
+            "issueName": "Make run calls webpack every time",
+            "issueUrl": "https://www.github.com/compiler-explorer/compiler-explorer/issues/2939"
+          },
+          {
+            "issueName": "[COMPILER REQUEST] Remove obsolete development branch of gcc static analyzer",
+            "issueUrl": "https://www.github.com/compiler-explorer/compiler-explorer/issues/2937"
+          },
+          {
+            "issueName": "[LIB REQUEST] magic_enum",
+            "issueUrl": "https://www.github.com/compiler-explorer/compiler-explorer/issues/2933"
+          },
+          {
+            "issueName": "[BUG] Format adds spaces in urls with //",
+            "issueUrl": "https://www.github.com/compiler-explorer/compiler-explorer/issues/2928"
+          },
+          {
+            "issueName": "Can spdlog be added for MSVC as well?",
+            "issueUrl": "https://www.github.com/compiler-explorer/compiler-explorer/issues/2927"
+          },
+          {
+            "issueName": "[REQUEST] objdump -S like view for C/C++ to assembly output",
+            "issueUrl": "https://www.github.com/compiler-explorer/compiler-explorer/issues/2925"
+          },
+          {
+            "issueName": "[REQUEST] Fetching remote content using CMake",
+            "issueUrl": "https://www.github.com/compiler-explorer/compiler-explorer/issues/2922"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/hmemcpy/milewski-ctfp-pdf",
+        "issues": [
+          {
+            "issueName": "Why not give Haskell example of implementation of coproduct?",
+            "issueUrl": "https://www.github.com/hmemcpy/milewski-ctfp-pdf/issues/276"
+          },
+          {
+            "issueName": "inter-word spacing with fontdimen",
+            "issueUrl": "https://www.github.com/hmemcpy/milewski-ctfp-pdf/issues/275"
+          },
+          {
+            "issueName": "nix-shell command doesn't work",
+            "issueUrl": "https://www.github.com/hmemcpy/milewski-ctfp-pdf/issues/274"
+          },
+          {
+            "issueName": "Page numbers not aligning with the pdf page number",
+            "issueUrl": "https://www.github.com/hmemcpy/milewski-ctfp-pdf/issues/272"
+          },
+          {
+            "issueName": "Acknowledge std::variant",
+            "issueUrl": "https://www.github.com/hmemcpy/milewski-ctfp-pdf/issues/268"
+          },
+          {
+            "issueName": "Typo in Preface",
+            "issueUrl": "https://www.github.com/hmemcpy/milewski-ctfp-pdf/issues/265"
+          },
+          {
+            "issueName": "How does one build the reasonml version only?",
+            "issueUrl": "https://www.github.com/hmemcpy/milewski-ctfp-pdf/issues/264"
+          },
+          {
+            "issueName": "PDF is great but ePub is even better (on e-ink devices)",
+            "issueUrl": "https://www.github.com/hmemcpy/milewski-ctfp-pdf/issues/256"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/lk-geimfari/awesomo",
+        "issues": [
+          {
+            "issueName": "C# Common repo redirects to another one",
+            "issueUrl": "https://www.github.com/lk-geimfari/awesomo/issues/268"
+          },
+          {
+            "issueName": "Add all the icons to a folder and make a them a standard size,quality,format",
+            "issueUrl": "https://www.github.com/lk-geimfari/awesomo/issues/245"
+          },
+          {
+            "issueName": "Update all the lists for all languages",
+            "issueUrl": "https://www.github.com/lk-geimfari/awesomo/issues/180"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/purescript/purescript",
+        "issues": [
+          {
+            "issueName": "Wrong kind inferred for type synonym",
+            "issueUrl": "https://www.github.com/purescript/purescript/issues/4183"
+          },
+          {
+            "issueName": "purs bundle eliminates functions called locally",
+            "issueUrl": "https://www.github.com/purescript/purescript/issues/4181"
+          },
+          {
+            "issueName": "Compiler error with kind unification",
+            "issueUrl": "https://www.github.com/purescript/purescript/issues/4180"
+          },
+          {
+            "issueName": "Changing an instance name can cause a TypeError",
+            "issueUrl": "https://www.github.com/purescript/purescript/issues/4179"
+          },
+          {
+            "issueName": "Data/Newtype/Class declarations shadow imported module names",
+            "issueUrl": "https://www.github.com/purescript/purescript/issues/4174"
+          },
+          {
+            "issueName": "Rename unit for empty dictionaries to something else",
+            "issueUrl": "https://www.github.com/purescript/purescript/issues/4173"
+          },
+          {
+            "issueName": "Show warning and error statistics at the end of compilations",
+            "issueUrl": "https://www.github.com/purescript/purescript/issues/4154"
+          },
+          {
+            "issueName": "Add --strict flag to promote src/ warnings into errors",
+            "issueUrl": "https://www.github.com/purescript/purescript/issues/4153"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/hadolint/hadolint",
+        "issues": [
+          {
+            "issueName": "Misinterpretation in DL3010",
+            "issueUrl": "https://www.github.com/hadolint/hadolint/issues/709"
+          },
+          {
+            "issueName": "GitHub tag out of sync with DockerHub image in pre-commit config",
+            "issueUrl": "https://www.github.com/hadolint/hadolint/issues/706"
+          },
+          {
+            "issueName": "Error when encountering variables in Docker Buildx mounts",
+            "issueUrl": "https://www.github.com/hadolint/hadolint/issues/705"
+          },
+          {
+            "issueName": "Feature: Create a rule to specify a version number for a specific artifact",
+            "issueUrl": "https://www.github.com/hadolint/hadolint/issues/692"
+          },
+          {
+            "issueName": "Error when using podman with hadolint image",
+            "issueUrl": "https://www.github.com/hadolint/hadolint/issues/691"
+          },
+          {
+            "issueName": "Hadolint should use the build arguments when scanning",
+            "issueUrl": "https://www.github.com/hadolint/hadolint/issues/689"
+          },
+          {
+            "issueName": "Missing DockerHub images for v2.6.1",
+            "issueUrl": "https://www.github.com/hadolint/hadolint/issues/687"
+          },
+          {
+            "issueName": "please update the package summary",
+            "issueUrl": "https://www.github.com/hadolint/hadolint/issues/684"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "topicUrl": "https://www.github.com/topics/monero",
+    "repos": [
+      {
+        "repoUrl": "https://www.github.com/monero-project/monero",
+        "issues": [
+          {
+            "issueName": "LMDB possible deadlock with low probability in the wrapper in lmdb_txn_begin()",
+            "issueUrl": "https://www.github.com/monero-project/monero/issues/7957"
+          },
+          {
+            "issueName": "get_transactions RPC fails if transactions aren't found",
+            "issueUrl": "https://www.github.com/monero-project/monero/issues/7956"
+          },
+          {
+            "issueName": "IPv6 peer grouping",
+            "issueUrl": "https://www.github.com/monero-project/monero/issues/7955"
+          },
+          {
+            "issueName": "[aarch64/Manjaro]  monerod dies after completing sync",
+            "issueUrl": "https://www.github.com/monero-project/monero/issues/7950"
+          },
+          {
+            "issueName": "Travala token",
+            "issueUrl": "https://www.github.com/monero-project/monero/issues/7948"
+          },
+          {
+            "issueName": "monero-wallet-cli didn't respect --do-not-relay flag",
+            "issueUrl": "https://www.github.com/monero-project/monero/issues/7947"
+          },
+          {
+            "issueName": "Thank you",
+            "issueUrl": "https://www.github.com/monero-project/monero/issues/7944"
+          },
+          {
+            "issueName": "Docker Container uses a end of life version of Ubuntu",
+            "issueUrl": "https://www.github.com/monero-project/monero/issues/7938"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/xmrig/xmrig",
+        "issues": [
+          {
+            "issueName": "How to mine with nvidia gtx 1050 ",
+            "issueUrl": "https://www.github.com/xmrig/xmrig/issues/2590"
+          },
+          {
+            "issueName": "What value should vm.nr_hugepages be set?",
+            "issueUrl": "https://www.github.com/xmrig/xmrig/issues/2589"
+          },
+          {
+            "issueName": "XMRig gives no active connection error while mining",
+            "issueUrl": "https://www.github.com/xmrig/xmrig/issues/2588"
+          },
+          {
+            "issueName": "Phoenix Miner 5.6d Windows/msvc error - ",
+            "issueUrl": "https://www.github.com/xmrig/xmrig/issues/2587"
+          },
+          {
+            "issueName": "No working",
+            "issueUrl": "https://www.github.com/xmrig/xmrig/issues/2585"
+          },
+          {
+            "issueName": "Suggestion: warning/reminder if paused for too long",
+            "issueUrl": "https://www.github.com/xmrig/xmrig/issues/2584"
+          },
+          {
+            "issueName": "My hash Rate not same as Website Benchmarks",
+            "issueUrl": "https://www.github.com/xmrig/xmrig/issues/2578"
+          },
+          {
+            "issueName": "XMRIG with a load balancing cluster",
+            "issueUrl": "https://www.github.com/xmrig/xmrig/issues/2577"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/cazala/coin-hive",
+        "issues": [
+          {
+            "issueName": "This project is alive ?",
+            "issueUrl": "https://www.github.com/cazala/coin-hive/issues/121"
+          },
+          {
+            "issueName": "Coin hive linux ",
+            "issueUrl": "https://www.github.com/cazala/coin-hive/issues/120"
+          },
+          {
+            "issueName": "Please support new algorithm",
+            "issueUrl": "https://www.github.com/cazala/coin-hive/issues/119"
+          },
+          {
+            "issueName": "Coinhive is discontinued",
+            "issueUrl": "https://www.github.com/cazala/coin-hive/issues/118"
+          },
+          {
+            "issueName": "not worked in other pools",
+            "issueUrl": "https://www.github.com/cazala/coin-hive/issues/114"
+          },
+          {
+            "issueName": "An error occured socket hang up",
+            "issueUrl": "https://www.github.com/cazala/coin-hive/issues/113"
+          },
+          {
+            "issueName": "An error occured SSL Certificate error: ERR_CERT_COMMON_NAME_INVALID",
+            "issueUrl": "https://www.github.com/cazala/coin-hive/issues/111"
+          },
+          {
+            "issueName": "Any chance to get Angular 5+ version?",
+            "issueUrl": "https://www.github.com/cazala/coin-hive/issues/109"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/yjjnls/awesome-blockchain",
+        "issues": [
+          {
+            "issueName": "All jianshu.com links have \"404 not found\" error.",
+            "issueUrl": "https://www.github.com/yjjnls/awesome-blockchain/issues/18"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/johnrosen1/vpstoolbox",
+        "issues": [
+          {
+            "issueName": "trojan-GFW failed",
+            "issueUrl": "https://www.github.com/johnrosen1/vpstoolbox/issues/124"
+          },
+          {
+            "issueName": "Linode Server not suitable",
+            "issueUrl": "https://www.github.com/johnrosen1/vpstoolbox/issues/123"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/Cyclenerd/ethereum_nvidia_miner",
+        "issues": []
+      },
+      {
+        "repoUrl": "https://www.github.com/MultiPoolMiner/MultiPoolMiner",
+        "issues": [
+          {
+            "issueName": "i receive this error ",
+            "issueUrl": "https://www.github.com/MultiPoolMiner/MultiPoolMiner/issues/2477"
+          },
+          {
+            "issueName": ".miner",
+            "issueUrl": "https://www.github.com/MultiPoolMiner/MultiPoolMiner/issues/2476"
+          },
+          {
+            "issueName": "-interval (where to set parameter)",
+            "issueUrl": "https://www.github.com/MultiPoolMiner/MultiPoolMiner/issues/2475"
+          },
+          {
+            "issueName": "Is this project dead?",
+            "issueUrl": "https://www.github.com/MultiPoolMiner/MultiPoolMiner/issues/2474"
+          },
+          {
+            "issueName": "Setting up HWiNFO64 and Command Lines/Config",
+            "issueUrl": "https://www.github.com/MultiPoolMiner/MultiPoolMiner/issues/2473"
+          },
+          {
+            "issueName": "Help needed for a few features of Multi pool miner",
+            "issueUrl": "https://www.github.com/MultiPoolMiner/MultiPoolMiner/issues/2471"
+          },
+          {
+            "issueName": "Adding start arguments when launching a miner",
+            "issueUrl": "https://www.github.com/MultiPoolMiner/MultiPoolMiner/issues/2470"
+          },
+          {
+            "issueName": "Gminer erroneous hashrates",
+            "issueUrl": "https://www.github.com/MultiPoolMiner/MultiPoolMiner/issues/2469"
+          }
+        ]
+      },
+      {
+        "repoUrl": "https://www.github.com/xmrig/xmrig-nvidia",
+        "issues": [
+          {
+            "issueName": "Miner",
+            "issueUrl": "https://www.github.com/xmrig/xmrig-nvidia/issues/334"
+          },
+          {
+            "issueName": "Segfault prevent from build bin",
+            "issueUrl": "https://www.github.com/xmrig/xmrig-nvidia/issues/333"
+          },
+          {
+            "issueName": "CUDA         disabled (no devices)",
+            "issueUrl": "https://www.github.com/xmrig/xmrig-nvidia/issues/332"
+          },
+          {
+            "issueName": "Upgrade XMRig",
+            "issueUrl": "https://www.github.com/xmrig/xmrig-nvidia/issues/331"
+          },
+          {
+            "issueName": "monero",
+            "issueUrl": "https://www.github.com/xmrig/xmrig-nvidia/issues/330"
+          },
+          {
+            "issueName": "Wicked low has rate for Nvidia GPU",
+            "issueUrl": "https://www.github.com/xmrig/xmrig-nvidia/issues/329"
+          },
+          {
+            "issueName": "background option not working in windows",
+            "issueUrl": "https://www.github.com/xmrig/xmrig-nvidia/issues/328"
+          },
+          {
+            "issueName": "thread #0 failed with error <reg>:53 \"invalid argument\" Debian 10 Nvidia",
+            "issueUrl": "https://www.github.com/xmrig/xmrig-nvidia/issues/326"
+          }
+        ]
+      }
+    ]
+  }
+]
